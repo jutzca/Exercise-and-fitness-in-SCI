@@ -13,7 +13,7 @@
 
 ## Contact
 Questions or comments related to the manuscript:
-* :e-mail: [Prof. Dr. Tom Nightingale] (mailto:T.E.Nightingale@bham.ac.u?subject=[GitHub]%20Source%20Han%20Sans)
+* :e-mail: [Prof. Dr. Tom Nightingale](mailto:T.E.Nightingale@bham.ac.u?subject=[GitHub]%20Source%20Han%20Sans)
 * :e-mail: [Dan Hodgkiss](mailto:ddh749@student.bham.ac.uk?subject=[GitHub]%20Source%20Han%20Sans)
 
 This repository is maintained by:
