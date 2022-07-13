@@ -17,7 +17,7 @@ Questions or comments related to the manuscript:
 * :e-mail: [Dan Hodgkiss](mailto:ddh749@student.bham.ac.uk?subject=[GitHub]%20Source%20Han%20Sans)
 
 This repository is maintained by:
-* :e-mail: [Dr. Catherine Jutzeler](https://github.com/jutzca)
+* :e-mail: [Dan Hodgkiss](https://github.com/danhodgkiss99)
 
 ## Funding
 
