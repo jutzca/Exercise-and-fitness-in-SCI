@@ -11,6 +11,7 @@
 ## External resources
 
 :open_book:	**Link to pre-print paper**: [Click here](https://www.medrxiv.org/content/10.1101/2022.08.05.22278397v3)
+:open_book:	**Link to published article**: [Click here](https://doi.org/10.1371/journal.pmed.1004082)
 
 ## Contact
 Questions or comments related to the manuscript:
