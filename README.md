@@ -10,7 +10,7 @@
 
 ## External resources
 
-:open_book:	**Link to pre-print paper**: [Paper]([https://www.medrxiv.org/content/10.1101/2022.08.05.22278397v3)])
+:open_book:	**Link to pre-print paper**: [Click here](https://www.medrxiv.org/content/10.1101/2022.08.05.22278397v3)
 
 ## Contact
 Questions or comments related to the manuscript:
